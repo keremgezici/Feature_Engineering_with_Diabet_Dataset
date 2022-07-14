@@ -1,0 +1,1 @@
+ In this project, I examined feature engineering in detail. First, I visualized the data set with exploratory data analysis. Then I worked on outlier analysis and then variable derivation, encoding-standardization steps. In my last step, I created a prediction model with a simple logistic regression as an example.
